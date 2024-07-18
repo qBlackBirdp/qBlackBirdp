@@ -1,11 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<details>
-<summary>About Me </summary>
-개발자를 목표로 공부하고 있는 학생입니다. 현재 Java, Html, Css, Js, MySql을 공부하고 있습니다.
-</summary>
 
-<img src="https://img.shields.io/badge/Java-#F7DF1E?style=for-the-badge&logo=Java&logoColor=white"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp&hide=contribs,prs&show_icons=true&theme=radical)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=BlackBird)](https://velog.io/@tablo2525)
+
+
+
 
 <img src="https://github.com/qBlackBirdp/qBlackBirdp/blob/output/github-snake-dark.svg" width="100%">
 
