@@ -2,7 +2,7 @@
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=BlackBird)](https://github.com/@tablo2525/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=BlackBird)](https://velog.io/@tablo2525)
 
 
 
