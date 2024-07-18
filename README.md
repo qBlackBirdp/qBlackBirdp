@@ -5,6 +5,8 @@
 개발자를 목표로 공부하고 있는 학생입니다. 현재 Java, Html, Css, Js, MySql을 공부하고 있습니다.
 </summary>
 
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white"/>
+
 <img src="https://github.com/qBlackBirdp/qBlackBirdp/blob/output/github-snake-dark.svg" width="100%">
 
 <!--
