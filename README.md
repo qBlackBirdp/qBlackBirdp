@@ -12,6 +12,8 @@
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qBlackBirdp&theme=dark" alt="GitHub Streak" /></a>
+
 
 <img src="https://github.com/qBlackBirdp/qBlackBirdp/blob/output/github-snake-dark.svg" width="100%">
 
