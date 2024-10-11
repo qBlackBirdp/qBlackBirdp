@@ -26,7 +26,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp&show_icons=true&theme=tokyonight) 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&layout=compact&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&theme=tokyonight)](https://github.com/qBlackBirdp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&theme=tokyonight)](https://github.com/qBlackBirdp/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&layout=compact&theme=tokyonight)
 
 
 <img src="https://github.com/qBlackBirdp/qBlackBirdp/blob/output/github-snake-dark.svg" width="100%">
