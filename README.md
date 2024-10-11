@@ -24,6 +24,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qBlackBirdp&theme=dark" alt="GitHub Streak" /></a>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp)
 
 <img src="https://github.com/qBlackBirdp/qBlackBirdp/blob/output/github-snake-dark.svg" width="100%">
 
