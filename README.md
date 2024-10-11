@@ -24,7 +24,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qBlackBirdp&theme=dark" alt="GitHub Streak" /></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp)](https://github.com/qBlackBirdp/github-readme-stats)
 
 <img src="https://github.com/qBlackBirdp/qBlackBirdp/blob/output/github-snake-dark.svg" width="100%">
 
