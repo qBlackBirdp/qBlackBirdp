@@ -1,52 +1,69 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header"
+  width="100%"
+/>
 
 # qBlackBirdp
 
 <div align="center">
 
-<hr>
+---
 
 ### Languages and Tools
 
-<hr>
+---
 
-![jdk](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<br/><br/>
 
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=qBlackBirdp&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</a>
 
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+<br/><br/>
 
-![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=qBlackBirdp&show_icons=true&theme=tokyonight"
+  alt="GitHub Stats"
+/>
 
+<br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qBlackBirdp&theme=dark" alt="GitHub Streak" /></a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&layout=compact&theme=tokyonight"
+  alt="Top Languages"
+/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qBlackBirdp&show_icons=true&theme=tokyonight) 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&theme=tokyonight)](https://github.com/qBlackBirdp/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&layout=compact&theme=tokyonight)
+<br/><br/>
 
-
-<img src="https://github.com/qBlackBirdp/qBlackBirdp/blob/output/github-snake-dark.svg" width="100%">
-
-<!--
-**qBlackBirdp/qBlackBirdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/qBlackBirdp/qBlackBirdp/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/qBlackBirdp/qBlackBirdp/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/qBlackBirdp/qBlackBirdp/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer"
+  width="100%"
+/>
