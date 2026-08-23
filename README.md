@@ -20,28 +20,6 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=qBlackBirdp&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=qBlackBirdp&show_icons=true&theme=tokyonight"
-  alt="GitHub Stats"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qBlackBirdp&layout=compact&theme=tokyonight"
-  alt="Top Languages"
-/>
 
 <br/><br/>
 
