@@ -20,6 +20,19 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
+<br/><br/>
+
+### GitHub Stats
+
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/><br/>
 
